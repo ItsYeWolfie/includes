@@ -1,0 +1,10 @@
+{
+	"user": "ItsYeWolfie",
+	"repo": "TP",
+	"tag": "0.0.1",
+	"entry": "tp.pwn",
+	"output": "gamemodes/tp.amx",
+	"dependencies": [
+		"pawn-lang/samp-stdlib"
+	]
+}
